@@ -1,0 +1,15 @@
+.icon-1 {
+    height: 16px;
+    width: 16px;
+    margin-right: 5px;
+    margin-bottom: 3px;
+}
+
+.signup {
+    margin-right: 17px;
+}
+
+.custom-button:hover {
+    background-color: red;
+    border-color: white;
+}
